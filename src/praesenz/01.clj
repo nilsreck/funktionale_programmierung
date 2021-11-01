@@ -1,4 +1,4 @@
-(ns praesenz01.core
+(ns praesenz.01
   (:gen-class))
 
 (defn flip [x y z]

@@ -1,4 +1,4 @@
-(ns praesenz01.core-test
+(ns praesenz.core-test
   (:require [clojure.test :refer :all]
             [praesenz01.core :refer :all]))
 
