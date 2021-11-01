@@ -1,6 +1,8 @@
 (ns praesenz.01
   (:gen-class))
 
+(comment "1.11")
+
 (defn flip [x y z]
   [z y x])
 
